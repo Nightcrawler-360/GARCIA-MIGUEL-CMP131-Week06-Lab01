@@ -472,8 +472,7 @@ When `mobile_phone_bill.py` runs, it must:
 * Test both programs using all required test values.
 * Check spelling, capitalization, grammar, and punctuation.
 * Make sure both programs run without errors.
-* Follow the course AI-use policy.
-* Record any AI assistance in `AI-Use-Report.md`.
+
 
 # Required Organization
 
